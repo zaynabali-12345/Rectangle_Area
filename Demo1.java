@@ -35,5 +35,7 @@ public class Demo1 {
     
     RectanglePerimeter r1 = new RectanglePerimeter(4, 5);
     r1.show();
+
+    System.out.println("End of the program");
     }
 }
